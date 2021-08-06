@@ -21,3 +21,5 @@
 ## T-Tests on Suspension Coils
 ![ttest](https://user-images.githubusercontent.com/80009944/128574653-aa07947e-7312-4db3-ba1d-d673697111b9.png)
     - Based on the p-value in the images above, the current manufacturing data meet **does mmet this design specification for all manufacturing lots in total and for each lot individually**.
+
+## Study Design: MechaCar vs Competition
