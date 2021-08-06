@@ -18,6 +18,7 @@ table_summary <- suspension_table %>%
 lot_summary <- suspension_table %>% group_by(Manufacturing_Lot) %>% 
   summarize(mean = mean(PSI), median = median(PSI), variance = var(PSI), SD = sd(PSI))  
 
+#Deliverable 3
 t.test(suspension_table$PSI, mu=1500)
 ?subset()
 
